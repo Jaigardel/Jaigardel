@@ -1,10 +1,14 @@
 🚀 Hi there, I'm Jaime
 
-Welcome to my personal repository! Here you will find a collection of my projects, experiments, and learning experiences in software development. 🚀
+Welcome to my personal repository! Here you will find a collection of my projects, 
+experiments, and learning experiences in software development. 🚀
+
 
 📌 About Me
 
-I am a software development enthusiast with a passion for technology. I love learning new technologies and sharing knowledge with the community.
+I am a software development enthusiast with a passion for technology. I love learning 
+new technologies and sharing knowledge with the community.
+
 
 📂 Repository Content
 
@@ -19,6 +23,8 @@ This repository contains:
 🔧 Various scripts and utilities
 
 🔧 Technologies and Tools
+
+
 
 Some of the technologies I work with:
 
@@ -38,6 +44,8 @@ Some of the technologies I work with:
 
 ☁️ Cloud & DevOps (Docker, Firebase)
 
+
+
 📫 Contact
 
 You can find me at:
@@ -45,5 +53,7 @@ You can find me at:
 GitHub: @Jaigardel
 
 Email: jaigardel144@gmail.com
+
+
 
 Thanks for visiting my repository! 🚀
