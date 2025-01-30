@@ -12,37 +12,16 @@ new technologies and sharing knowledge with the community.
 
 📂 Repository Content
 
-This repository contains:
 
 🌟 Personal projects
 
 🧪 Experiments and tests with new technologies
 
-📖 Documentation and learning notes
-
-🔧 Various scripts and utilities
-
-🔧 Technologies and Tools
-
-
 
 Some of the technologies I work with:
 
-💻 JavaScript / TypeScript
-
-☕ Java
-
-🛠️ PHP / Laravel
-
-🌐 HTML / CSS (SASS, LESS)
-
-🎨 Bootstrap / Tailwind
-
-⚛️ React / Angular
-
-🗄️ Databases (MySQL)
-
-☁️ Cloud & DevOps (Docker, Firebase)
+💻 JavaScript / TypeScript   ☕ Java   🛠️ PHP / Laravel   🌐 HTML / CSS (SASS, LESS) 
+🎨 Bootstrap / Tailwind   ⚛️ React / Angular   🗄️ Databases (MySQL)  ☁️ Cloud & DevOps (Docker, Firebase)
 
 
 
