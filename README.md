@@ -29,8 +29,6 @@ Some of the technologies I work with:
 
 You can find me at:
 
-GitHub: @Jaigardel
-
 Email: jaigardel144@gmail.com
 
 
