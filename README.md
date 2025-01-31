@@ -24,6 +24,7 @@ Some of the technologies I work with:
 You can find me at:
 
 Email: jaigardel144@gmail.com
+
 LinkedIn: www.linkedin.com/in/jaigardel
 
 
