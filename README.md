@@ -14,8 +14,8 @@ experiments, and learning experiences in software development. 🚀
 
 Some of the technologies I work with:
 
-💻 JavaScript / TypeScript   ☕ Java   🛠️ PHP / Laravel   🌐 HTML / CSS (SASS, LESS) 
-🎨 Bootstrap / Tailwind   ⚛️ React / Angular   🗄️ Databases (MySQL)  ☁️ Cloud & DevOps (Docker, Firebase)
+💻 JavaScript  ☕ Java   🛠️ PHP / Laravel   🌐 HTML / CSS 🎨 Bootstrap / Tailwind 
+⚛️ React / Angular   🗄️ Databases (MySQL)  ☁️ Cloud & DevOps (Docker, Firebase)
 
 
 
